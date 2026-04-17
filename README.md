@@ -1,5 +1,4 @@
-# API Portfolio Project
-This project demonstrates API coding best practices using Python and FastAPI.
+# Projekt I: Portfolio API
+To repozytorium zawiera program wykorzystujący standardowe biblioteki Pythona, oparty na projektach z książki Ryana Daya "Interfejsy API w AI i Data Science".
 
-This project was built from examples from the book 
  [Hands-On APIs For API and Data Science](https://hands-on-api-book.com/).
